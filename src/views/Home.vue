@@ -2,7 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-    <div>我是第一个master</div>
+  <h2>01.master</h2>
   </div>
 </template>
 
